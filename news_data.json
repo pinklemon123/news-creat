@@ -1,0 +1,55 @@
+{
+  "date": "2025-08-17",
+  "overall_intro": "黎智英勾结外国势力案近日进入结案陈词阶段，案件的审理引发广泛关注。今日，法庭通过多媒体直播的方式进行结案陈词，允许公众实时了解案件进展。黎智英作为香港著名的民主活动人士，此案的结果可能对香港的政治环境及言论自由产生深远影响。各方对这一案件的关注程度及其后续发展，将继续成为舆论焦点。",
+  "theme": {
+    "name": "新闻主题",
+    "palette": {
+      "bg": "#1f2937",
+      "surface": "#111827",
+      "text": "#f9fafb",
+      "muted": "#a1a1aa",
+      "brand": "#3b82f6",
+      "accent1": "#a78bfa",
+      "accent2": "#34d399"
+    },
+    "radius": {
+      "card": 12,
+      "button": 8,
+      "chip": 6
+    },
+    "layout": {
+      "grid_min": 300,
+      "density": "comfortable"
+    },
+    "style": "flat",
+    "background": "linear-gradient(180deg, #0f172a, #1f2937)",
+    "use_covers": true,
+    "shadows": {
+      "card": "0 4px 10px rgba(0,0,0,.2)",
+      "button": "0 2px 8px rgba(0,0,0,.15)"
+    },
+    "shapes": [
+      {
+        "type": "blob",
+        "color": "#3b82f6",
+        "opacity": 0.1,
+        "size": "600px",
+        "blur": "40px",
+        "position": {
+          "top": "-100px",
+          "right": "-80px"
+        }
+      }
+    ]
+  },
+  "articles": [
+    {
+      "title": "黎智英勾結外國勢力案結案陳詞語多媒體直播 - BBC News 中文",
+      "link": "https://www.bbc.com/zhongwen/live/cp89jrd5dmqt/trad",
+      "site": "www.bbc.com",
+      "cover_url": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/8cd7/live/44423830-79b4-11f0-a34f-318be3fb0481.jpg",
+      "raw_summary": "黎智英案件结案陈词多媒体直播引关注\n\n• 黎智英勾结外国势力案于今日结案，法庭外吸引众多市民旁听。  \n• 市民“姨婆”凌晨4点抵达法庭外，表达对黎智英的支持与佩服。  \n• 尽管遭遇恶劣天气，支持者仍愿意通宵等待，显示对黎智英的坚定支持。  \n• “姨婆”提到黎智英身体状况有所转差，但他仍积极鼓励支持者，传递正能量。  \n• 此案件引发广泛关注，反映香港社会对政治案件的不同态度与情感。\n\n关键词：黎智英, 法庭, 支持, 政治案件",
+      "lead": "黎智英案件结案陈词多媒体直播引关注"
+    }
+  ]
+}
